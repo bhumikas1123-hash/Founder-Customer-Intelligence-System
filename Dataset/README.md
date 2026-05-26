@@ -34,9 +34,9 @@ The datasets support the complete workflow of:
 |---|---|---|
 | 🧹 Cleaning | `customer_shopping_data.csv` | Remove nulls, fix types, rename columns |
 | ⚙️ Engineering | `customer_shopping_data.csv` | Build loyalty, promo, intensity scores |
-| 🧠 Segmentation | Both | Assign Master Customer Segment labels |
-| 🗄️ SQL Analysis | `customer_intelligence_final.csv` | Run 5 business intelligence queries |
-| 📊 Dashboard | `customer_intelligence_final.csv` | Power BI 4-panel founder dashboard |
+| 🧠 Segmentation | `customer_shopping_data.csv` | Assign Master Customer Segment labels |
+| 🗄️ SQL Analysis | `refined_customer_intelligence_engine_output.csv` | Run 5 business intelligence queries |
+| 📊 Dashboard | `refined_customer_intelligence_engine_output.csv` | Power BI 4-panel founder dashboard |
 
 ---
 
@@ -91,7 +91,7 @@ The datasets support the complete workflow of:
 
 ---
 
-## 📁 File 2 — Processed Analytical Dataset
+## 📁 File 2 — refined_customer_intelligence_engine_output.csv
 
 ### `customer_intelligence_final.csv`
 
