@@ -306,7 +306,7 @@ This processed file is used by:
 
 | Member | Role |
 |---|---|
-| Akshit Sukhija | Product Intelligence & Strategic Analytics — Python |
+| Akshit Sukhija | Product Intelligence & Strategic Analytics — Python + SQL |
 | Bhumika | Analytics Validation & Visualization — SQL + Power BI |
 
 ---
