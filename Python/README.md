@@ -314,6 +314,6 @@ This processed file is used by:
 <div align="center">
 
 **Part of the Founder Customer Intelligence System**
-*Launched by IIIT Guwahati — Summer 2025*
+*Launched by IIT Guwahati — Summer 2025*
 
 </div>
