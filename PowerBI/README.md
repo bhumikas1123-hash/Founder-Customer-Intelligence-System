@@ -209,10 +209,9 @@ customer_intelligence_final.csv
 
 ## 🎥 Demo
 
-> Walkthrough Video
+> Walkthrough Video --> https://drive.google.com/file/d/1i6_IYeS6NDcAG6gYhuDjB-J92qyIRDAh/view?usp=sharing
 
 
-```
 
 ---
 
@@ -224,10 +223,9 @@ customer_intelligence_final.csv
 | Bhumika Singhal | Analytics Validation & Visualization — SQL + Power BI |
 
 ---
-
+ 
 <div align="center">
-
 **Part of the Founder Customer Intelligence System**
-*Launched by IIT Guwahati — Summer Project 2025*
-
+*Launched by IIIT Guwahati — Summer 2025*
+ 
 </div>
