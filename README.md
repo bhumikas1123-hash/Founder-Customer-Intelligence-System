@@ -153,7 +153,7 @@ Panels cover: Customer Base Distribution · Organic Loyalty vs Discount Reliance
 <div align="center">
 
 **Founder Customer Intelligence System**
-*Launched by IIT Guwahati — Summer 2025*
+*Launched by IIT Guwahati — Summer Project 2025*
 
 Powered by Python · SQL · Power BI
 
