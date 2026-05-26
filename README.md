@@ -8,7 +8,7 @@
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Records](https://img.shields.io/badge/Records-3%2C900%2B-00C2D1?style=for-the-badge&logo=databricks&logoColor=white)
 ![Coverage](https://img.shields.io/badge/Coverage-50%20US%20States-378ADD?style=for-the-badge&logo=google-maps&logoColor=white)
-![IIT Guwahati](https://img.shields.io/badge/IIT%20Guwahati-Summer%202025-F4B942?style=for-the-badge&logo=academia&logoColor=white)
+![IIT Guwahati](https://img.shields.io/badge/IIT%20Guwahati-Summer%20Project%202025-F4B942?style=for-the-badge&logo=academia&logoColor=white)
 
 **Strategic customer intelligence designed to identify loyalty strength, promotional dependency, and retention opportunities across customer segments and regions.**
 
