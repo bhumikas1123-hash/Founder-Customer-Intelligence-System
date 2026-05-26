@@ -59,7 +59,6 @@ Founder-Customer-Intelligence-System/
 │
 ├── 📁 PowerBI/
 │   ├── Founder_Customer_Intelligence.pbix              ← 4-panel founder dashboard
-│   ├── Dashboard_Screenshots
 │   └── README.md
 │
 └── README.md                                           ← This file
