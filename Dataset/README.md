@@ -91,9 +91,9 @@ The datasets support the complete workflow of:
 
 ---
 
-## 📁 File 2 — refined_customer_intelligence_engine_output.csv
+## 📁 File 2 — Processed Analytical Dataset
 
-### `customer_intelligence_final.csv`
+### `refined_customer_intelligence_engine_output.csv`
 
 > Processed analytical dataset generated after Python-based preprocessing, feature engineering, segmentation logic, and customer intelligence scoring. This is the **primary source** for all SQL queries and Power BI visuals.
 
