@@ -225,7 +225,8 @@ customer_intelligence_final.csv
 ---
  
 <div align="center">
+
 **Part of the Founder Customer Intelligence System**
-*Launched by IIIT Guwahati — Summer 2026*
- 
+*Launched by IIT Guwahati — Summer Project 2026*
+
 </div>
