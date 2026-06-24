@@ -154,6 +154,6 @@ PowerBI/Founder_Customer_Intelligence   ← all 4 dashboard panels
 <div align="center">
 
 **Part of the Founder Customer Intelligence System**
-*Launched by IIT Guwahati — Summer Project 2025*
+*Launched by IIT Guwahati — Summer Project 2026*
 
 </div>
